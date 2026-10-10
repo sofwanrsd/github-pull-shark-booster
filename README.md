@@ -55,6 +55,12 @@ Tool otomasi ringan dan aman untuk membuka serta meningkatkan level badge resmi 
 
 ---
 
+## Kontribusi
+
+Kontribusi, perbaikan bug, saran fitur, issue, dan pull request sangat terbuka bebas bagi siapa saja yang ingin mengembangkan proyek ini lebih lanjut. Silakan fork repositori ini dan ajukan pull request.
+
+---
+
 ## Lisensi
 
 Proyek ini dilisensikan di bawah lisensi MIT. Lihat file [LICENSE](LICENSE) untuk detail lengkap.
